@@ -1,6 +1,6 @@
 # ScriptGenerator
 
-**ScriptGenerator** 是一个强大的智能工具，旨在帮助创作者快速生成高质量的剧本和脚本。无论你是编剧、导演还是内容创作者，ScriptGenerator 都能为你提供灵感和支持，让你的创作过程更加高效和愉快。
+**ScriptGenerator** 是一个强大的智能体工具，旨在帮助创作者快速生成高质量的剧本和脚本。无论你是编剧、导演还是内容创作者，ScriptGenerator 都能为你提供灵感和支持，让你的创作过程更加高效和愉快。
 
 **教程安利** 如果你也想了解大模型，可以去了解一下https://github.com/InternLM/Tutorial
 
